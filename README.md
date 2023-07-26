@@ -1,26 +1,50 @@
 # E-Commerce
-The Note Taker is a convenient web application designed to help you write and store notes effortlessly. With its user-friendly and intuitive interface, it simplifies the process of organizing your ideas and managing your tasks effectively.
-
-### Generated Logo
-
-![Note Taker](https://github.com/KevinBelknap/Note-App/assets/128446838/e34ea70f-fa72-41e9-aff9-61247b745a8c)
-
+This uses MYSQL2 and Sequelize. This is the backend for an E commerce site build using express.js
 
 ## Table of Contents
 
 - [Installation](#installation)
+- [Usage](#usage)
+- [Preview](#preview)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
 
-To install and run the Note Taker application locally, follow these steps:
+1. Clone the repository to your local machine.
+2. InstaLll the dependencies.
+3. npm install
+4. Create a .env file in the root directory of the project.
+5. In the .env file, add your MySQL username, password, and database name in the following format:
+DB_USER=<your-username>
+DB_PASSWORD=<your-password>
+DB_NAME=<your-database-name>
 
-1. Clone the repository to your local machine.  
-2. Open a terminal and navigate to the project's root directory.  
-3. Run npm install to install the required dependencies.  
-4. Start the application by running node server.js.  
-5.  Access the application in your web browser at http://localhost:3000.
+Use thE schema.sql file in the db folder to create the database using MySQL shell commands.
+
+Seed the database with test data.
+
+
+npm run seed
+
+Start The server.
+
+bash
+
+npm start
+
+The server should now be running on http://localhost:3001.
+
+## Usage
+
+1. Open a terminal.
+2. Navigate to the project directory.
+3. Run the application: node server.js
+4. Follow the prompts to perform various actions, such as view database, add, update and delete.
+
+## Preview
+
+![Video](https://github.com/KevinBelknap/Note-App/assets/128446838/e34ea70f-fa72-41e9-aff9-61247b745a8c)
 
 ## Contributing
 
