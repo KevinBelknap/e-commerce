@@ -12,28 +12,17 @@ This uses MYSQL2 and Sequelize. This is the backend for an E commerce site build
 ## Installation
 
 1. Clone the repository to your local machine.
-2. InstaLll the dependencies.
+2. Install the dependencies.
 3. npm install
 4. Create a .env file in the root directory of the project.
 5. In the .env file, add your MySQL username, password, and database name in the following format:
-DB_USER=<your-username>
-DB_PASSWORD=<your-password>
-DB_NAME=<your-database-name>
-
-Use thE schema.sql file in the db folder to create the database using MySQL shell commands.
-
-Seed the database with test data.
-
-
-npm run seed
-
-Start The server.
-
-bash
-
-npm start
-
-The server should now be running on http://localhost:3001.
+  DB_USER=<your-username>
+  DB_PASSWORD=<your-password>
+  DB_NAME=<your-database-name>
+6. Seed the database with test data.
+7. npm run seed
+8. npm start
+9. The server should now be running on http://localhost:3001.
 
 ## Usage
 
