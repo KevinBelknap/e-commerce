@@ -29,7 +29,7 @@ To install click the green code button click and copy and clone the file to your
 
 ## Preview
 
-![Video](https://github.com/KevinBelknap/Note-App/assets/128446838/e34ea70f-fa72-41e9-aff9-61247b745a8c)
+****Enter video clip here:****
 
 ## Contributing
 
