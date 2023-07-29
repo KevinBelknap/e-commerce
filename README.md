@@ -29,7 +29,9 @@ To install click the green code button click and copy and clone the file to your
 
 ## Preview
 
-****Enter video clip here:****
+
+https://github.com/KevinBelknap/e-commerce/assets/128446838/3e1cb3e0-71f6-48cc-9f28-b9d89d0b0e6e
+
 
 ## Contributing
 
